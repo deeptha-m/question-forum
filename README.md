@@ -1,6 +1,6 @@
 # Angular App
 
-This project is a simple question forum where the user / leaner can post questions and also provide answers to the questions similar to how Stack-overflow works.
+This project is a simple question forum where the user / learner can post questions and also provide answers to the questions similar to how Stack-overflow works.
 
 ## Installation
 
